@@ -1,4 +1,4 @@
-// Creating Bodies
+// Constructing Bodies
 
 public class CelestialBody {
     public double x, y;
